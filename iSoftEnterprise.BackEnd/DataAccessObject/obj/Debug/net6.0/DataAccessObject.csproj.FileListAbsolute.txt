@@ -1,0 +1,5 @@
+D:\Desarrollo\iSoftEnterprise\BackEnd\iSoftEnterprise.BackEnd\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.AssemblyReference.cache
+D:\Desarrollo\iSoftEnterprise\BackEnd\iSoftEnterprise.BackEnd\DataAccessObject\obj\Debug\net6.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\iSoftEnterprise\BackEnd\iSoftEnterprise.BackEnd\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfoInputs.cache
+D:\Desarrollo\iSoftEnterprise\BackEnd\iSoftEnterprise.BackEnd\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfo.cs
+D:\Desarrollo\iSoftEnterprise\BackEnd\iSoftEnterprise.BackEnd\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.CoreCompileInputs.cache
